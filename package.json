@@ -1,7 +1,7 @@
 {
-	"name": "com.mackysoft.serializereference-extensions",
+	"name": "com.davevanegdom.serializereference-extensions",
 	"displayName": "SerializeReference Extensions",
-	"author": { "name": "MackySoft", "url": "https://github.com/mackysoft" },
+	"author": { "name": "Dave van Egdom", "url": "https://github.com/davevanegdom" },
 	"version": "1.7.0",
 	"unity": "2021.3",
 	"description": "Provide popup to specify the type of the field serialized by the [SerializeReference] attribute in the inspector.",
@@ -11,11 +11,5 @@
     "documentationUrl": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions",
     "changelogUrl": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions/releases",
     "licensesUrl": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions/blob/main/LICENSE",
-	"samples": [
-		{
-			"displayName": "Get Started",
-			"description": "",
-			"path": "Samples~/GetStarted"
-		}
-	]
+	"samples": []
 }
